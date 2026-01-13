@@ -1,89 +1,103 @@
-# Hi, I'm ErMayankPandey2007 👋
+<!-- ================== HEADER ANIMATION ================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+ErMayankPandey2007+%F0%9F%91%8B;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Clean+%26+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-> Building things that matter — clean code, thoughtful design, and open collaboration.
-
-[![Website](https://img.shields.io/badge/website-Update%20me-blue)](#)
-[![Email](https://img.shields.io/badge/email-Update%20me-green)](#)
-[![GitHub followers](https://img.shields.io/github/followers/ErMayankPandey2007?label=Follow&style=social)](https://github.com/ErMayankPandey2007)
-
----
-
-## About Me
-I’m a curious software builder who loves turning ideas into production-ready code and delightful user experiences. I contribute to open source, optimize developer workflows, and enjoy mentoring others. I focus on pragmatic, maintainable engineering with attention to developer experience and automation.
-
-- 🔭 I’m currently working on: meaningful projects that solve real problems (details below)
-- 🌱 I’m learning: new frameworks, system design, and scalable architecture
-- 💬 Ask me about: code quality, automation, debugging, and open source contribution
-- ⚡ Fun fact: I love clean terminal setups and well-documented README files
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212897590-ecb7f38a-7f8c-4c87-9f90-7f7d1c0c5c1a.gif" width="500" />
+</p>
 
 ---
 
-## What I Do
-- Build scalable web applications and APIs
-- Automate workflows with CI/CD and infrastructure as code
-- Improve DX with reusable components and robust tests
-- Mentor junior devs and contribute to open-source projects
+## 👨‍💻 About Me
+
+🎓 Diploma Holder in **Computer Science Engineering (CSE)**  
+🚀 **MERN Stack Developer**  
+💡 Passionate about building real-world web applications  
+
+- 🔭 Currently working on **Web Apps & Admin Panels**
+- 🌱 Learning **Advanced React, Backend Architecture & SEO**
+- 💬 Ask me about **React, Tailwind CSS, Node.js, MongoDB**
+- ⚡ Fun fact: I love clean UI, animations & well-documented code
 
 ---
 
-## Tech & Tools
-Languages: JavaScript / TypeScript • Python • Java  
-Frontend: React • Next.js • HTML • CSS  
-Backend: Node.js • Express • FastAPI • PostgreSQL  
-DevOps & Tools: Docker • GitHub Actions • Terraform • AWS • CI/CD  
-Testing & Quality: Jest • PyTest • ESLint • Prettier
+## 🛠 Tech Stack
 
-> Tip: Replace or reorder these to match your top skills and the level of experience you want to show.
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
+</p>
 
----
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## Featured Projects
-> Short, punchy descriptions help visitors understand impact quickly. Replace with your real projects.
-
-- **Project One** — A short one-line summary of what it does and why it matters.  
-  GitHub: [repo-name](https://github.com/username/repo-name) • Tech: TypeScript, Next.js, Node
-
-- **Project Two** — A concise highlight of the problem solved and measurable results (if any).  
-  GitHub: [repo-name](https://github.com/username/repo-name) • Tech: Python, FastAPI
-
-- **Project Three** — A quick note about scale, performance, or user impact.  
-  GitHub: [repo-name](https://github.com/username/repo-name) • Tech: Docker, AWS
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+</p>
 
 ---
 
-## Contribution Highlights
-- Contributor to [example-open-source](https://github.com/example/example) — added feature X, improved CI speed by 30%
-- Built a reusable component library used by multiple internal teams
-- Designed and documented a microservice template for faster bootstrapping
+## 📂 Featured Projects
+
+🚀 **School Management System**  
+_Admin panel for students, fees & reports_  
+**Tech:** React, Tailwind, Node.js, MongoDB  
+
+🚀 **Fee Management Dashboard**  
+_Finance tracking dashboard with charts_  
+**Tech:** React, Chart.js  
+
+🚀 **Hotel Booking Website**  
+_SEO-friendly & fully responsive website_  
+**Tech:** React, HTML, CSS  
+
+👉 More projects coming soon...
 
 ---
 
-## GitHub Stats
-<!-- Replace `ErMayankPandey2007` with your username (it's already set) and choose a theme if you like -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErMayankPandey2007&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErMayankPandey2007&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErMayankPandey2007&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErMayankPandey2007&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErMayankPandey2007&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## How to Reach Me
-Choose the links you want to show and replace the placeholders below.
+## 🌐 Connect With Me
 
-- Website: [your-website.com](https://your-website.com)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)  
-- Email: your.email@example.com  
-- Twitter/X: [@yourhandle](https://twitter.com)  
-- Resume: [Download PDF](#)
-
----
-
-## Let’s Collaborate
-I’m open to freelance work, internships, and mentorship. If you have an idea or a role that fits, drop me a message — I reply quickly.
-
----
-
-## ✨ Want this README personalized?
-I can tailor this README to precisely reflect your brand, projects, and goals. Scroll down and tell me the details I requested below.
+<p>
+  <a href="mailto:mp04042007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-Thank you for visiting — let’s build something great together. 🚀
+## 🤝 Let’s Collaborate
+
+✅ Freelance Projects  
+✅ Internships  
+✅ Open Source Contributions  
+
+📩 Feel free to reach out — I reply quickly!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
