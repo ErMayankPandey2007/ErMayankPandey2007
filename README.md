@@ -1,87 +1,77 @@
-<!-- ================== HEADER ANIMATION ================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+ErMayankPandey2007+%F0%9F%91%8B;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Clean+%26+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!-- ================== HEADER ================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mayank+Pandey+%F0%9F%91%8B;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErMayankPandey2007&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170" />
-  <img src="https://streak-stats.demolab.com?user=ErMayankPandey2007&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErMayankPandey2007&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Diploma Holder in **Computer Science Engineering (CSE)**  
+🎓 **Diploma in Computer Science Engineering**  
 🚀 **MERN Stack Developer**  
-💡 Passionate about building real-world web applications  
+💡 Passionate about clean UI & real-world products  
 
-- 🔭 Currently working on **Web Apps & Admin Panels**
-- 🌱 Learning **Advanced React, Backend Architecture & SEO**
-- 💬 Ask me about **React, Tailwind CSS, Node.js, MongoDB**
-- ⚡ Fun fact: I love clean UI, animations & well-documented code
+- 🔭 Working on **Admin Panels & Business Websites**
+- 🌱 Learning **Advanced React & Backend Architecture**
+- 💬 Ask me about **React, Tailwind, Node, MongoDB**
+- ⚡ Love animations & performance-focused code
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+### 🔧 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&theme=dark" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-🚀 **School Management System**  
+✨ **School Management System**  
 _Admin panel for students, fees & reports_  
-**Tech:** React, Tailwind, Node.js, MongoDB  
 
-🚀 **Fee Management Dashboard**  
-_Finance tracking dashboard with charts_  
-**Tech:** React, Chart.js  
+✨ **Fee Management Dashboard**  
+_Charts, analytics & finance tracking_  
 
-🚀 **Hotel Booking Website**  
-_SEO-friendly & fully responsive website_  
-**Tech:** React, HTML, CSS  
+✨ **Hotel Booking Website**  
+_SEO-friendly & fully responsive_
 
-👉 More projects coming soon...
+👉 More coming soon...
 
 ---
 
-## 📊 GitHub Stats
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErMayankPandey2007&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ErMayankPandey2007&theme=tokyonight" height="170"/>
-</p>
-
+## 📈 Developer Activity (Static – Always Loads)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErMayankPandey2007&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErMayankPandey2007&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErMayankPandey2007&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ErMayankPandey2007&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:mp04042007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -97,11 +87,11 @@ _SEO-friendly & fully responsive website_
 
 ## 🤝 Let’s Collaborate
 
-✅ Freelance Projects  
+✅ Freelance Work  
 ✅ Internships  
-✅ Open Source Contributions  
+✅ Open-Source  
 
-📩 Feel free to reach out — I reply quickly!
+📩 **DM anytime — fast reply!**
 
 ---
 
