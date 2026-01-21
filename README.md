@@ -4,8 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897590-ecb7f38a-7f8c-4c87-9f90-7f7d1c0c5c1a.gif" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErMayankPandey2007&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ErMayankPandey2007&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErMayankPandey2007&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
+
 
 ---
 
