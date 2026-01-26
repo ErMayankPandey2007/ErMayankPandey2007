@@ -1,6 +1,6 @@
-<!-- ================== ROBOTIC HEADER ANIMATION ================== -->
+<!-- ================== ROBOTIC ANIMATED HEADER ================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Hi%2C+I'm+ErMayankPandey2007+%F0%9F%A4%96;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Clean+%26+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80;STATUS%3A+ONLINE+%E2%9C%85" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Hi%2C+I'm+ErMayankPandey2007+%F0%9F%A4%96;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Clean+%26+Scalable+Web+Apps;Always+Learning+%F0%9F%9A%80;STATUS%3A+ONLINE+%E2%9C%85" />
 </h1>
 
 <p align="center">
@@ -116,3 +116,4 @@ _SEO-friendly & fully responsive website_
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:000000,100:00F7FF&height=150&section=footer"/>
 </p>
+
