@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</p><p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00F7FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/THEME-BLACK-black?style=for-the-badge"/>
